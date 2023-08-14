@@ -1,0 +1,14 @@
+.navbar-dark .navbar-nav .nav-link{
+    color:white;
+}
+
+#navbarNavDropdown {
+    justify-content: end;
+}
+
+.navbar .container-fluid{
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
